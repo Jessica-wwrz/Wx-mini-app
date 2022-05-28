@@ -9,7 +9,7 @@ WeChat mini-app, Webpack, vue.js
 
 ### Back end
 
-Express.js, 
+Express.js 
 
 ### Database
 
