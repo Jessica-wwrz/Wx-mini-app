@@ -1,0 +1,25 @@
+{
+  "name": "expressserver",
+  "version": "1.0.0",
+  "description": "nodejs + mysql + express的demo\r ## 安装依赖\r npm install  \r ## 运行项目\r npm run dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "zzp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request":"^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jessica-wwrz/Wx-mini-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jessica-wwrz/Wx-mini-app/issues"
+  },
+  "homepage": "https://github.com/Jessica-wwrz/Wx-mini-app#readme"
+}
